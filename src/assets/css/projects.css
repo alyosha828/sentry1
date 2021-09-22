@@ -1,0 +1,83 @@
+h1 {
+    color: rgb(43, 29, 56);
+    font-size: 22px;
+    line-height: 22px;
+    font-weight: normal;
+    float: left;
+}
+.Projects{
+    margin: 20px;
+}
+.createProjectBtn{
+    float: right;
+}
+.projectsIconTitle{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+.projectsIcon{
+    display:inline;
+    float: left;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.projectsUserList{
+    margin-left: auto; 
+    margin-right: 0;
+    display: flex;
+    align-items: center;
+    float: right;
+}
+.projectsCell{
+    float:left;
+    margin-top: 10px;
+    margin-left:10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(18, 119, 250);
+}
+.projectCellDetail{
+    margin-left: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float:left;
+    color: #000;
+}
+.projectsChart{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.projectsCellFooter{
+    text-align: left;
+    padding: 20px;
+}
+.percenteValue{
+    color: #d0cad8;
+    font-size: 26px;
+}
+.projectsDown{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    color:red;
+    text-align: left;
+    font-size: 15px;
+}
+.cellName{
+    color: #9386a0;
+    font-size: 16px;
+}

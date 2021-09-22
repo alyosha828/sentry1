@@ -1,0 +1,11 @@
+.AppBarBtns{
+    margin-left: auto;
+}
+.AppBarBtns .v-btn{
+    margin-left: 5px;
+}
+.NavTopBarIcon{
+    display: block;
+    height: 40px;
+    width: 40px;
+}

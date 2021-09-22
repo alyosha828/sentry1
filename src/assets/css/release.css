@@ -1,0 +1,24 @@
+.releaseCellLeft{
+    float: left;
+    margin: 10px;
+}
+
+.releaseChart{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    width: 200px;
+    float: right;
+    margin-left: auto;
+    padding: 10px;
+}
+.v-data-table__wrapper {
+    border-left: 1px solid #e0e0e0;
+}
+.v-select.v-select--is-menu-active .v-input__icon--append .v-icon {
+    transform: none;
+}
+.v-application .pa-4 {
+    padding: 0px!important;
+}
